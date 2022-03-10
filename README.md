@@ -1,5 +1,5 @@
 # C-Seqer
-A C++11 rewrite of the Python SweetSEQer algorithm.
+A C++11 rewrite of the Python SweetSEQer algorithm. View the publication [here](https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.1c00379).
 
 This work is a derivative of the original SweetSEQer algorithm licensed to Oliver Serang (2012):
   https://pubmed.ncbi.nlm.nih.gov/23443135/
