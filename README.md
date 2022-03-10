@@ -5,7 +5,6 @@ This work is a derivative of the original SweetSEQer algorithm licensed to Olive
   https://pubmed.ncbi.nlm.nih.gov/23443135/
 
 ## Requirements:
-* Docker (if running the container)
 * Python 2.7 (for plotting)
   * Matplotlib 1.5.3
   * NetworkX 1.1
